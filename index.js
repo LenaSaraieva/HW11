@@ -33,7 +33,7 @@ function showMessage(city) {
 showMessage(city);}
 
 //Спорт
-let favoriteSport = prompt('What is you favourite kind of sport?');
+let favoriteSport = prompt('What do you like more: football, basketball or tennis?');
 if (favoriteSport === null) {
     alert("It's a pity that you didn't want to enter your favourite kind of sport.");
   } else {
